@@ -8,7 +8,7 @@ Tämän Repon rakenne
   - unicafe
   - anekdootit
 - osa2
- - puhelinluettelo
+  - puhelinluettelo
   - maiden_tiedot
 
 jne.
