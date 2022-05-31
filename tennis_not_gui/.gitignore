@@ -3,3 +3,13 @@ main.dSYM/Contents
 .DS_Store
 .txt
 tempCodeRunnerFile.cpp
+
+
+*.pro.user
+/.qtc_clangd*
+/debug*
+/release*
+/build-tennis_not_gui-Desktop_Qt_5_15_2_MinGW_64_bit-Debug*
+
+.qmake.stash
+*Makefile
