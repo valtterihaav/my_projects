@@ -1,1 +1,0 @@
-# osan 2 vastaukset
